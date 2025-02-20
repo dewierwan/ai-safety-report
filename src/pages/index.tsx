@@ -33,7 +33,7 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="International AI Safety Report"
+      title="International AI Safety Report 2025"
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
