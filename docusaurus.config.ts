@@ -17,8 +17,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'dewierwan', // Usually your GitHub org/user name.
+  projectName: 'ai-safety-report', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -65,7 +65,7 @@ const config: Config = {
           label: 'Report',
         },
         {
-          href: 'https://github.com/your-org/state-of-ai-safety',
+          href: 'https://github.com/dewierwan/ai-safety-report',
           label: 'GitHub',
           position: 'right',
         },
@@ -78,8 +78,8 @@ const config: Config = {
           title: 'Report',
           items: [
             {
-              label: 'Introduction',
-              to: '/introduction',
+              label: 'Summary',
+              to: '/executive-summary/',
             },
             {
               label: 'Key Findings',
@@ -92,12 +92,12 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/your-org/state-of-ai-safety',
+              href: 'https://github.com/dewierwan/ai-safety-report',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Your Organization. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} International AI Safety Report.`,
     },
     prism: {
       theme: prismThemes.github,
