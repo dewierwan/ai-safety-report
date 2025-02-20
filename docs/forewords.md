@@ -21,7 +21,7 @@ I extend my profound gratitude to the team of experts who contributed to this re
 
 My thanks also go to the UK Government for starting this process and offering outstanding operational support. It was also important for me that the UK Government agreed that the scientists writing this report should have complete independence.
 
-AI remains a fast-moving field. To keep up with this pace, policymakers and governments need to have access to the current scientific understanding on what risks advanced AI might pose. I hope that this report as well as future publications will help decision-makers ensure that people around the world can reap the benefits of AI safely.
+AI remains a fast-moving field. To keep up with this pace, policymakers and governments need to have access to the current scientific understanding on what risks advanced AI might pose. I hope that this report as well as future publications will help decision-makers ensure that people around the world can reap the benefits of AI safely. 
 
 ---
 
