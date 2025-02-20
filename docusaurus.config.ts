@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'International AI Safety Report',
+  title: 'International AI Safety Report 2025',
   tagline: 'The International Scientific Report on the Safety of Advanced AI',
   favicon: 'img/favicon.ico',
 
