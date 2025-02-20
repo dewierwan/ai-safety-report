@@ -20,6 +20,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
+            to="/forewords">
+            Read report
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            style={{ marginLeft: '1rem' }}
             to="https://www.gov.uk/government/publications/international-ai-safety-report-2025">
             See original
           </Link>
