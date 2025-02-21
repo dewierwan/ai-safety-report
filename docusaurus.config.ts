@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'International AI Safety Report 2025',
   tagline: 'The International Scientific Report on the Safety of Advanced AI',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ai-action-summit-icon.png',
 
   // Set the production url of your site here
   url: 'https://dewierwan.github.io',
@@ -49,13 +49,13 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // Update the social card image
+    image: 'img/ai-action-summit.png',
     navbar: {
       title: 'State of AI Safety',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'AI Action Summit Logo',
+        src: 'img/ai-action-summit-icon.png',
       },
       items: [
         {
